@@ -11,7 +11,7 @@ export default defineConfig({
     themeConfig: {
         siteTitle: "To have no technique",
         // logo: "http://images.dushu.work/kunkun.jpg",
-        logo: "http://images.dushu.work/getimgdata.gif",
+        logo: "../../docs/.vitepress/public/getimgdata.gif",
         nav: [
             {
                 text: "首页",

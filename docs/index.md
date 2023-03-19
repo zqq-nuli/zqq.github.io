@@ -6,7 +6,7 @@ hero:
   text: 
   tagline: 山底太挤 我们山顶见
   image:
-    src: "http://images.dushu.work/weixintouxiang.jpg"
+    src: "./.vitepress/public/weixintouxiang.jpg"
     alt: VitePress
   actions:
     - theme: brand
