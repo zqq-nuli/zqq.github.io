@@ -6,7 +6,7 @@ hero:
   text: 
   tagline: 山底太挤 我们山顶见
   image:
-    src: "./.vitepress/public/weixintouxiang.jpg"
+    src: /assets/weixintouxiang.jpg
     alt: VitePress
   actions:
     - theme: brand
