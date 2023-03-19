@@ -1,0 +1,10 @@
+:root {
+    --vp-nav-height: 94px !important;
+}
+
+div {
+    background-size: cover;
+    border-radius: 50%;
+   
+    /* box-shadow: ; */
+}
